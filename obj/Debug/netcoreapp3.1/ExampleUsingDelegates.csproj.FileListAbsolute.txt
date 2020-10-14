@@ -1,0 +1,13 @@
+/home/fred/Desktop/Source/Visual Studio Projects/ExampleUsingDelegates/bin/Debug/netcoreapp3.1/ExampleUsingDelegates
+/home/fred/Desktop/Source/Visual Studio Projects/ExampleUsingDelegates/bin/Debug/netcoreapp3.1/ExampleUsingDelegates.deps.json
+/home/fred/Desktop/Source/Visual Studio Projects/ExampleUsingDelegates/bin/Debug/netcoreapp3.1/ExampleUsingDelegates.runtimeconfig.json
+/home/fred/Desktop/Source/Visual Studio Projects/ExampleUsingDelegates/bin/Debug/netcoreapp3.1/ExampleUsingDelegates.runtimeconfig.dev.json
+/home/fred/Desktop/Source/Visual Studio Projects/ExampleUsingDelegates/bin/Debug/netcoreapp3.1/ExampleUsingDelegates.dll
+/home/fred/Desktop/Source/Visual Studio Projects/ExampleUsingDelegates/bin/Debug/netcoreapp3.1/ExampleUsingDelegates.pdb
+/home/fred/Desktop/Source/Visual Studio Projects/ExampleUsingDelegates/obj/Debug/netcoreapp3.1/ExampleUsingDelegates.csprojAssemblyReference.cache
+/home/fred/Desktop/Source/Visual Studio Projects/ExampleUsingDelegates/obj/Debug/netcoreapp3.1/ExampleUsingDelegates.AssemblyInfoInputs.cache
+/home/fred/Desktop/Source/Visual Studio Projects/ExampleUsingDelegates/obj/Debug/netcoreapp3.1/ExampleUsingDelegates.AssemblyInfo.cs
+/home/fred/Desktop/Source/Visual Studio Projects/ExampleUsingDelegates/obj/Debug/netcoreapp3.1/ExampleUsingDelegates.csproj.CoreCompileInputs.cache
+/home/fred/Desktop/Source/Visual Studio Projects/ExampleUsingDelegates/obj/Debug/netcoreapp3.1/ExampleUsingDelegates.dll
+/home/fred/Desktop/Source/Visual Studio Projects/ExampleUsingDelegates/obj/Debug/netcoreapp3.1/ExampleUsingDelegates.pdb
+/home/fred/Desktop/Source/Visual Studio Projects/ExampleUsingDelegates/obj/Debug/netcoreapp3.1/ExampleUsingDelegates.genruntimeconfig.cache
